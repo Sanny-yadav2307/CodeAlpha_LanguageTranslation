@@ -1,0 +1,5 @@
+streamlit
+requests
+gTTS
+
+# Command to run the application: [python -m streamlit run app.py]
